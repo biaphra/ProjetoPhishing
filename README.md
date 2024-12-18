@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ProjetoPhishing/banner.png" alt="Simulador de Spear Phishing" width="80%">
+  <img src="/banner.png" alt="Simulador de Spear Phishing" width="80%">
   
   # 🎯 Simulador de Spear Phishing
   
